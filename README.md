@@ -48,9 +48,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=VietNamNews&theme=onedark" />
 </a>    
-<a href="https://github.com/TranHuyHoang2001/PhanLoaiAnhHoa">
+<a href="https://github.com/TranHuyHoang2001/Pet_Project_Shop_Electronic">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=PhanLoaiAnhHoa&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=Pet_Project_Shop_Electronic&theme=cobalt" />
 </a>    
 <a href="https://github.com/TranHuyHoang2001/PhanLoaiAnh-SVM-">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
