@@ -9,79 +9,48 @@ My name is Tran Huy Hoang. I am learning software and web app development. I am 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=FE_HealthCareHospital&theme=radical" />
 </a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
+<a href="https://github.com/TranHuyHoang2001/BE_HealthCareHospital">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=BE_HealthCareHospital&theme=merko" />
 </a>
 
-<a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
+<a href="https://github.com/TranHuyHoang2001/ChatBot_Nodejs">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=ChatBot_Nodejs&theme=gruvbox" />
 </a>    
-<a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
+<a href="https://github.com/TranHuyHoang2001/SD2QPN">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=SD2QPN&theme=dark" />
 </a>
 
-<a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
+<a href="https://github.com/TranHuyHoang2001/VietNamNews">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=VietNamNews&theme=onedark" />
 </a>    
-<a href="https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/">
+<a href="https://github.com/TranHuyHoang2001/PhanLoaiAnhHoa">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=PhanLoaiAnhHoa&theme=cobalt" />
 </a>
 
-<a href="https://github.com/uvipen/AirGesture/">
+<a href="https://github.com/TranHuyHoang2001/Pokemon_custom">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=AirGesture&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=Pokemon_custom&theme=synthwave" />
 </a>    
-<a href="https://github.com/uvipen/Yolo-v2-pytorch/">
+<a href="https://github.com/TranHuyHoang2001/PhanLoaiAnh-SVM-">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Yolo-v2-pytorch&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=PhanLoaiAnh-SVM-&theme=highcontrast" />
 </a>
 
-<a href="https://github.com/uvipen/Hierarchical-attention-networks-pytorch/">
+<a href="https://github.com/TranHuyHoang2001/SnakeGameClassic">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=SnakeGameClassic&theme=dracula" />
 </a>    
-<a href="https://github.com/uvipen/Photomosaic-generator/">
+<a href="https://github.com/TranHuyHoang2001/GameXepHinh">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Photomosaic-generator&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=GameXepHinh&theme=radical" />
 </a>
 
-<a href="https://github.com/uvipen/Street-fighter-A3C-ICM-pytorch/">
+<a href="https://github.com/TranHuyHoang2001/AndroidCRUD_SQLITE">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Street-fighter-A3C-ICM-pytorch&theme=merko" />
-</a>    
-<a href="https://github.com/uvipen/SSD-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=SSD-pytorch&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/uvipen/Contra-PPO-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Contra-PPO-pytorch&theme=dark" />
-</a>    
-<a href="https://github.com/uvipen/Deeplab-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Deeplab-pytorch&theme=onedark" />
-</a>
-
-<a href="https://github.com/uvipen/Character-level-cnn-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-pytorch&theme=cobalt" />
-</a>    
-<a href="https://github.com/uvipen/Character-level-cnn-tensorflow/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-tensorflow&theme=synthwave" />
-</a>
-
-<a href="https://github.com/uvipen/Very-deep-cnn-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
-</a>    
-<a href="https://github.com/uvipen/Very-deep-cnn-tensorflow/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranHuyHoang2001&repo=AndroidCRUD_SQLITE&theme=merko" />
 </a>
