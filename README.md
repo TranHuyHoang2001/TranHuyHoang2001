@@ -1,4 +1,3 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--pa0jcgzQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ugq0nl1h23yox4as45r1.png)]()
 <h1 align="center">Hi 👋, I'm Tran Huy Hoang</h1>
 <h3 align="center">A passionate fullstack developer. I am learning software and web app development. I am interested in the following topics: web app, software and cloud computing.</h3>
 <br>
