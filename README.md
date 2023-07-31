@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Huy Hoang</h1>
-<h3 align="center">A passionate fullstack developer. I am learning software and web app development. I am interested in the following topics: web app, software and cloud computing.</h3>
+<h3 align="center">A passionate developer. I am learning software and web app development. I am interested in the following topics: web app, software and cloud computing.</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
